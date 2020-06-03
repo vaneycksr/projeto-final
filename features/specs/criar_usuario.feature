@@ -1,3 +1,4 @@
+@criar_usuario
 Feature: Criar usuário
 
    - Eu como usuário
