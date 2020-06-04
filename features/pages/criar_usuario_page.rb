@@ -16,7 +16,7 @@ class User < SitePrism::Page
 
   def preencher_usuario
     nome.set 'Van Eyck'
-    ultimonome.set 'Rosas'
+    ultimo_nome.set 'Rosas'
     email.set 'van@van.com'
     endereco.set 'Av. Washington luiz'
     universidade.set 'UFPB'
